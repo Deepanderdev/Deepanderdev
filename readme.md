@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Nodejs & Data Structures and Algorithms**
 
-- 👯 I’Have developed [NUTRIFIT](https://github.com/Deepanderdev/NUTRIFIT)
-
 - 👨‍💻 All of my projects are available at [https://github.com/Deepanderdev?tab=repositories](https://github.com/Deepanderdev?tab=repositories)
 
 - 📫 How to reach me **deepakmeena7320@gmail.com**
